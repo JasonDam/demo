@@ -1,5 +1,5 @@
 package demo;
 
 public class demoClass {
-	test message
+	test message!
 }
